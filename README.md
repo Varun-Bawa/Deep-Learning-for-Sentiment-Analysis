@@ -8,7 +8,7 @@ The Amazon Review Dataset was published in the following papers:<br/>
 * Image-based recommendations on styles and substitutes J. McAuley, C. Targett, J. Shi, A. van den Hengel SIGIR, 2015 http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf<br/>
 In this example we are taking the most positive and most negative reviews from that dataset, and using simple normalization techniques. More complex techniques and larger datasets can be applied to get better results as currently the networks are overfitting in the examples. We will discuss some strategies to mitigate overfitting.<br/>
 
-Consists of a Deep Learning model to do Sentiment Analysis over Amazon reviews data-set.<br/>
+This tutorial consists of Deep Learning model to do Sentiment Analysis over Amazon reviews data-set.<br/>
 We have used 2 models to do the same<br/>
 * Bi-Directional LSTM
 * Temporal Convolutional Networks<br/>
